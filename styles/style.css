@@ -63,8 +63,8 @@ body {
   font-family: var(--main-font-stack);
   font-size: var(--standard-font-size);
   display: block;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: var(--background-color);
+  color: var(--base-text-color);
 }
 
 .header-navigation {
